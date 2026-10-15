@@ -13,20 +13,29 @@ npm run check        # eslint + tsc + next build
 
 Проект — стандартное Next.js-приложение; Vercel определяет его автоматически, `vercel.json` не нужен.
 
-1. Создайте пустой репозиторий на GitHub (без README и .gitignore).
-2. В папке `altitude-archive` (корень репозитория — именно она, не родительская папка):
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: ALTITUDE ARCHIVE"
-   git branch -M main
-   git remote add origin https://github.com/<user>/<repo>.git
-   git push -u origin main
-   ```
-3. Vercel → Add New → Project → Import этого репозитория. Настройки по умолчанию:
+Репозиторий: приватный `gorpcore-store`, ветка `main`. Корень репозитория — папка `altitude-archive`
+(не родительская папка `фотобот`: там лежат файлы бота с секретами).
+
+**Отправка изменений на GitHub** (после правок в Claude Code или вручную):
+```bash
+npm run check                      # проверка перед отправкой
+git add -A
+git commit -m "Кратко: что изменилось"
+git push                           # без --force
+```
+То же можно сделать в GitHub Desktop: Current repository → altitude-archive → Commit to main → Push origin.
+Git без отдельной установки есть внутри GitHub Desktop:
+`%LOCALAPPDATA%\GitHubDesktop\app-*\resources\app\git\cmd\git.exe`.
+
+**Подключение Vercel** (когда будете готовы публиковать):
+
+1. Vercel → Add New → Project → Import репозитория `gorpcore-store`. Настройки по умолчанию:
    Framework — Next.js, Build Command — `next build`, Output — `.next`, Install — `npm install`, Node.js — 20.x или новее.
-4. Environment Variables (необязательно): `NEXT_PUBLIC_SITE_URL=https://ваш-домен` — см. `.env.example`.
+2. Environment Variables (необязательно): `NEXT_PUBLIC_SITE_URL=https://ваш-домен` — см. `.env.example`.
    Без неё используется production-домен Vercel.
+3. Свой домен через Cloudflare: Vercel → Project → Settings → Domains → Add `ваш-домен`;
+   в Cloudflare → DNS добавьте записи, которые покажет Vercel (обычно `A @ 76.76.21.21` и
+   `CNAME www cname.vercel-dns.com`), режим прокси — **DNS only** (серое облако), чтобы Vercel выпустил SSL.
 
 Перед каждым пушем: `npm run check` (ресурсы с точным регистром имён, ESLint, TypeScript, production build).
 Секреты в репозиторий не попадают: `.env*` (кроме `.env.example`), `.vercel`, `node_modules`, `.next` исключены в `.gitignore`.
