@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200">
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#1b1d19" flood-opacity=".28"/></filter>
+  <linearGradient id="fold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>
+  <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="113"/><feColorMatrix values="0 0 0 0 .45  0 0 0 0 .45  0 0 0 0 .43  0 0 0 .55 0"/></filter>
+  <filter id="stain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".006" numOctaves="3" seed="124"/><feColorMatrix values="0 0 0 0 .3  0 0 0 0 .3  0 0 0 0 .29  0 0 0 .5 -.12"/></filter>
+  <radialGradient id="light" cx=".3" cy=".2" r="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#eaece6"/>
+<rect width="900" height="1200" filter="url(#grain)" opacity=".12"/>
+<g transform="translate(130.4 302.1) scale(6.3920 5.5583)">
+    <path d="M50 4 A40 38 0 0 1 90 42 L90 52 Q90 98 50 98 Q10 98 10 52 L10 42 A40 38 0 0 1 50 4 Z" fill="#3D4A35" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M50 4 A40 38 0 0 1 90 42 L90 52 Q90 98 50 98 Q10 98 10 52 L10 42 A40 38 0 0 1 50 4 Z" fill="url(#fold)"/>
+    <path d="M10 56 Q50 70 90 56 Q90 98 50 98 Q10 98 10 56 Z" fill="#262e21" opacity=".35"/><path d="M50 4 L50 60 M22 16 Q36 40 30 62 M78 16 Q64 40 70 62" fill="none" stroke="#262e21" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/><circle cx="50" cy="6" r="3" fill="#262e21"/>
+    <path d="M50 4 A40 38 0 0 1 90 42 L90 52 Q90 98 50 98 Q10 98 10 52 L10 42 A40 38 0 0 1 50 4 Z" fill="none" stroke="#262e21" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g>
+<text x="44" y="1150" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="20" letter-spacing="3" fill="#20251f" opacity=".55">DEMO · KITA FIELD · FRONT</text>
+</svg>

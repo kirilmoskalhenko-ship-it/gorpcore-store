@@ -1,0 +1,1181 @@
+[
+  {
+    "id": "jacket-arc-goretex-green",
+    "brand": "Arc'teryx",
+    "model": "GORE-TEX Shell Jacket",
+    "category": "jackets",
+    "price": 42000,
+    "condition": "excellent",
+    "unique": false,
+    "description": "Мембранная куртка GORE-TEX в двух оттенках зелёного: капюшон с регулировкой, контрастная молния, карманы на молниях.",
+    "color": {
+      "name": "Green / Lime",
+      "hex": "#3F8A2C"
+    },
+    "images": [
+      "/images/products/photos/jacket-arc-goretex-green.webp"
+    ],
+    "cutout": "/images/products/cutouts/jacket-arc-goretex-green.png",
+    "silhouette": "shell",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "jacket-patagonia-shell-khaki",
+    "brand": "Patagonia",
+    "model": "Shell Jacket",
+    "category": "jackets",
+    "price": 18900,
+    "condition": "very-good",
+    "unique": false,
+    "description": "Штормовая куртка с капюшоном: бежевый корпус и оливковая кокетка, три кармана на молниях спереди.",
+    "color": {
+      "name": "Khaki / Olive",
+      "hex": "#B8B59E"
+    },
+    "images": [
+      "/images/products/photos/jacket-patagonia-shell-khaki.png"
+    ],
+    "cutout": "/images/products/cutouts/jacket-patagonia-shell-khaki.png",
+    "silhouette": "shell",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 0
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "jacket-arc-beta-green",
+    "brand": "Arc'teryx",
+    "model": "Beta Jacket",
+    "category": "jackets",
+    "price": 39900,
+    "condition": "new",
+    "unique": false,
+    "description": "Мембранная куртка GORE-TEX: капюшон под шлем, водостойкие молнии карманов, регулировка манжет на липучке.",
+    "color": {
+      "name": "Dark Green",
+      "hex": "#4E7357"
+    },
+    "images": [
+      "/images/products/photos/jacket-arc-beta-green.png"
+    ],
+    "cutout": "/images/products/cutouts/jacket-arc-beta-green.png",
+    "silhouette": "shell",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false,
+    "cutoutTolerance": 36,
+    "cutoutErode": 2,
+    "cutoutShadow": true
+  },
+  {
+    "id": "jacket-arc-beta-navy",
+    "brand": "Arc'teryx",
+    "model": "Beta Jacket",
+    "category": "jackets",
+    "price": 41900,
+    "condition": "new",
+    "unique": false,
+    "description": "Мембранная куртка GORE-TEX: капюшон под шлем, водостойкие молнии карманов, регулировка манжет на липучке.",
+    "color": {
+      "name": "Navy",
+      "hex": "#2C3354"
+    },
+    "images": [
+      "/images/products/photos/jacket-arc-beta-navy.webp"
+    ],
+    "cutout": "/images/products/cutouts/jacket-arc-beta-navy.png",
+    "cutoutCrop": {
+      "top": 0.1
+    },
+    "silhouette": "shell",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 1
+      },
+      {
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "pants-parachute-grey",
+    "brand": "Бренд уточняется",
+    "model": "Parachute Pants",
+    "category": "pants",
+    "price": 6900,
+    "condition": "new",
+    "unique": false,
+    "description": "Широкие нейлоновые брюки-парашюты на резинке с кулиской, утяжки на щиколотках.",
+    "color": {
+      "name": "Grey",
+      "hex": "#6E716B"
+    },
+    "images": [
+      "/images/products/photos/pants-parachute-grey.png"
+    ],
+    "cutout": "/images/products/cutouts/pants-parachute-grey.png",
+    "cutoutErode": 4,
+    "silhouette": "pants",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 3
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "pants-balloon-charcoal",
+    "brand": "Бренд уточняется",
+    "model": "Balloon Nylon Pants",
+    "category": "pants",
+    "price": 8900,
+    "condition": "new",
+    "unique": false,
+    "description": "Объёмные нейлоновые брюки с ремнём на фастексе, карманами на молнии и сетчатым боковым карманом.",
+    "color": {
+      "name": "Charcoal",
+      "hex": "#3A4247"
+    },
+    "images": [
+      "/images/products/photos/pants-balloon-charcoal.webp"
+    ],
+    "cutout": "/images/products/cutouts/pants-balloon-charcoal.png",
+    "cutoutTolerance": 50,
+    "cutoutErode": 2,
+    "silhouette": "pants",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 1
+      },
+      {
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "pants-cargo-balloon-olive",
+    "brand": "Бренд уточняется",
+    "model": "Balloon Cargo Pants",
+    "category": "pants",
+    "price": 9400,
+    "condition": "new",
+    "unique": false,
+    "description": "Широкие карго из жатого нейлона: ремень на фастексе, накладные карманы с клапанами, утяжки внизу.",
+    "color": {
+      "name": "Olive",
+      "hex": "#6B6B32"
+    },
+    "images": [
+      "/images/products/photos/pants-cargo-balloon-olive.webp"
+    ],
+    "cutout": "/images/products/cutouts/pants-cargo-balloon-olive.png",
+    "cutoutTolerance": 52,
+    "cutoutErode": 2,
+    "silhouette": "pants",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 3
+      },
+      {
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "pants-tech-balloon-brown",
+    "brand": "Бренд уточняется",
+    "model": "Technical Balloon Pants",
+    "category": "pants",
+    "price": 11900,
+    "condition": "new",
+    "unique": false,
+    "description": "Технические брюки широкого кроя: ремень на фастексе, герметичные молнии карманов, усиленные вставки снизу.",
+    "color": {
+      "name": "Dark Olive",
+      "hex": "#4A4436"
+    },
+    "images": [
+      "/images/products/photos/pants-tech-balloon-brown.png"
+    ],
+    "cutout": "/images/products/cutouts/pants-tech-balloon-brown.png",
+    "cutoutTolerance": 46,
+    "cutoutErode": 2,
+    "silhouette": "pants",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 1
+      },
+      {
+        "size": "S",
+        "stock": 1
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 2
+      },
+      {
+        "size": "XL",
+        "stock": 1
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "pants-tnf-hyvent-white",
+    "brand": "The North Face",
+    "model": "HyVent Snow Pants",
+    "category": "pants",
+    "price": 12500,
+    "condition": "excellent",
+    "unique": false,
+    "description": "Сноубордические брюки с мембраной HyVent: регулировка пояса, карго-карман, молнии вентиляции.",
+    "color": {
+      "name": "Off-white",
+      "hex": "#E2E1DC"
+    },
+    "images": [
+      "/images/products/photos/pants-tnf-hyvent-white.png"
+    ],
+    "cutout": "/images/products/cutouts/pants-tnf-hyvent-white.png",
+    "cutoutTolerance": 18,
+    "silhouette": "pants",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 0
+      },
+      {
+        "size": "S",
+        "stock": 0
+      },
+      {
+        "size": "M",
+        "stock": 1
+      },
+      {
+        "size": "L",
+        "stock": 0
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "pants-balloon-lilac",
+    "brand": "Бренд уточняется",
+    "model": "Balloon Nylon Pants",
+    "category": "pants",
+    "price": 8900,
+    "condition": "new",
+    "unique": false,
+    "description": "Объёмные брюки из жатого нейлона с ремнём на фастексе и утяжками внизу.",
+    "color": {
+      "name": "Lilac",
+      "hex": "#B784C4"
+    },
+    "images": [
+      "/images/products/photos/pants-balloon-lilac.webp"
+    ],
+    "cutout": "/images/products/cutouts/pants-balloon-lilac.png",
+    "cutoutTolerance": 50,
+    "cutoutErode": 2,
+    "silhouette": "pants",
+    "variants": [
+      {
+        "size": "XS",
+        "stock": 2
+      },
+      {
+        "size": "S",
+        "stock": 2
+      },
+      {
+        "size": "M",
+        "stock": 2
+      },
+      {
+        "size": "L",
+        "stock": 1
+      },
+      {
+        "size": "XL",
+        "stock": 0
+      },
+      {
+        "size": "XXL",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "shoes-salomon-xt6-blue",
+    "brand": "Salomon",
+    "model": "XT-6",
+    "category": "footwear",
+    "price": 21900,
+    "condition": "new",
+    "unique": false,
+    "description": "Трейловые кроссовки со шнуровкой Quicklace, защитным носком и амортизирующей подошвой.",
+    "color": {
+      "name": "Blue / Silver",
+      "hex": "#6E9EE6"
+    },
+    "images": [
+      "/images/products/photos/shoes-salomon-xt6-blue.png"
+    ],
+    "cutout": "/images/products/cutouts/shoes-salomon-xt6-blue.png",
+    "cutoutTolerance": 40,
+    "cutoutErode": 2,
+    "silhouette": "shoes",
+    "variants": [
+      {
+        "size": "EU 39",
+        "stock": 0
+      },
+      {
+        "size": "EU 40",
+        "stock": 1
+      },
+      {
+        "size": "EU 41",
+        "stock": 2
+      },
+      {
+        "size": "EU 42",
+        "stock": 2
+      },
+      {
+        "size": "EU 43",
+        "stock": 3
+      },
+      {
+        "size": "EU 44",
+        "stock": 2
+      },
+      {
+        "size": "EU 45",
+        "stock": 1
+      },
+      {
+        "size": "EU 46",
+        "stock": 0
+      }
+    ],
+    "demo": false,
+    "cutoutShadow": true
+  },
+  {
+    "id": "shoes-salomon-xt6-brown",
+    "brand": "Salomon",
+    "model": "XT-6",
+    "category": "footwear",
+    "price": 21900,
+    "condition": "new",
+    "unique": false,
+    "description": "Трейловые кроссовки со шнуровкой Quicklace, защитным носком и амортизирующей подошвой.",
+    "color": {
+      "name": "Brown / Navy",
+      "hex": "#5A4B45"
+    },
+    "images": [
+      "/images/products/photos/shoes-salomon-xt6-brown.webp"
+    ],
+    "cutout": "/images/products/cutouts/shoes-salomon-xt6-brown.png",
+    "silhouette": "shoes",
+    "variants": [
+      {
+        "size": "EU 39",
+        "stock": 0
+      },
+      {
+        "size": "EU 40",
+        "stock": 0
+      },
+      {
+        "size": "EU 41",
+        "stock": 0
+      },
+      {
+        "size": "EU 42",
+        "stock": 0
+      },
+      {
+        "size": "EU 43",
+        "stock": 1
+      },
+      {
+        "size": "EU 44",
+        "stock": 0
+      },
+      {
+        "size": "EU 45",
+        "stock": 0
+      },
+      {
+        "size": "EU 46",
+        "stock": 0
+      }
+    ],
+    "demo": false,
+    "cutoutTolerance": 36,
+    "cutoutErode": 2,
+    "cutoutShadow": true
+  },
+  {
+    "id": "shoes-salomon-xt6-grey",
+    "brand": "Salomon",
+    "model": "XT-6",
+    "category": "footwear",
+    "price": 20900,
+    "condition": "new",
+    "unique": false,
+    "description": "Трейловые кроссовки со шнуровкой Quicklace, защитным носком и амортизирующей подошвой.",
+    "color": {
+      "name": "Grey / Black",
+      "hex": "#6F7470"
+    },
+    "images": [
+      "/images/products/photos/shoes-salomon-xt6-grey.webp"
+    ],
+    "cutout": "/images/products/cutouts/shoes-salomon-xt6-grey.png",
+    "silhouette": "shoes",
+    "variants": [
+      {
+        "size": "EU 39",
+        "stock": 1
+      },
+      {
+        "size": "EU 40",
+        "stock": 1
+      },
+      {
+        "size": "EU 41",
+        "stock": 2
+      },
+      {
+        "size": "EU 42",
+        "stock": 3
+      },
+      {
+        "size": "EU 43",
+        "stock": 3
+      },
+      {
+        "size": "EU 44",
+        "stock": 2
+      },
+      {
+        "size": "EU 45",
+        "stock": 1
+      },
+      {
+        "size": "EU 46",
+        "stock": 1
+      }
+    ],
+    "demo": false,
+    "cutoutTolerance": 36,
+    "cutoutErode": 2,
+    "cutoutShadow": true
+  },
+  {
+    "id": "shoes-nike-acg-mountain-fly",
+    "brand": "Nike ACG",
+    "model": "Mountain Fly 2 Low",
+    "category": "footwear",
+    "price": 17900,
+    "condition": "new",
+    "unique": false,
+    "description": "Трейловые кроссовки с быстрой шнуровкой и агрессивным протектором.",
+    "color": {
+      "name": "Light Grey / Sage",
+      "hex": "#D6D8D0"
+    },
+    "images": [
+      "/images/products/photos/shoes-nike-acg-mountain-fly.png"
+    ],
+    "cutout": "/images/products/cutouts/shoes-nike-acg-mountain-fly.png",
+    "cutoutTolerance": 18,
+    "silhouette": "shoes",
+    "variants": [
+      {
+        "size": "EU 39",
+        "stock": 0
+      },
+      {
+        "size": "EU 40",
+        "stock": 1
+      },
+      {
+        "size": "EU 41",
+        "stock": 1
+      },
+      {
+        "size": "EU 42",
+        "stock": 2
+      },
+      {
+        "size": "EU 43",
+        "stock": 2
+      },
+      {
+        "size": "EU 44",
+        "stock": 1
+      },
+      {
+        "size": "EU 45",
+        "stock": 0
+      },
+      {
+        "size": "EU 46",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "shoes-nike-vintage-zip",
+    "brand": "Nike",
+    "model": "Vintage Zip Trail",
+    "category": "footwear",
+    "price": 9900,
+    "condition": "very-good",
+    "unique": false,
+    "description": "Винтажные трейловые кроссовки с молнией вместо шнуровки.",
+    "color": {
+      "name": "Silver / Brown",
+      "hex": "#B8BEC6"
+    },
+    "images": [
+      "/images/products/photos/shoes-nike-vintage-zip.png"
+    ],
+    "silhouette": "shoes",
+    "variants": [
+      {
+        "size": "EU 39",
+        "stock": 0
+      },
+      {
+        "size": "EU 40",
+        "stock": 0
+      },
+      {
+        "size": "EU 41",
+        "stock": 0
+      },
+      {
+        "size": "EU 42",
+        "stock": 1
+      },
+      {
+        "size": "EU 43",
+        "stock": 0
+      },
+      {
+        "size": "EU 44",
+        "stock": 0
+      },
+      {
+        "size": "EU 45",
+        "stock": 0
+      },
+      {
+        "size": "EU 46",
+        "stock": 0
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "hat-arc-bird-navy",
+    "brand": "Arc'teryx",
+    "model": "Bird Head Toque",
+    "category": "headwear",
+    "price": 5900,
+    "condition": "new",
+    "unique": false,
+    "description": "Вязаная шапка с жаккардовым логотипом-птицей.",
+    "color": {
+      "name": "Navy / Grey",
+      "hex": "#3F5A80"
+    },
+    "images": [
+      "/images/products/photos/hat-arc-bird-navy.webp"
+    ],
+    "cutout": "/images/products/cutouts/hat-arc-bird-navy.png",
+    "cutoutTolerance": 46,
+    "silhouette": "beanie",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 3
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "hat-arc-bird-pink",
+    "brand": "Arc'teryx",
+    "model": "Bird Head Toque",
+    "category": "headwear",
+    "price": 5900,
+    "condition": "new",
+    "unique": false,
+    "description": "Вязаная шапка с жаккардовым логотипом-птицей.",
+    "color": {
+      "name": "Pink / White",
+      "hex": "#D99AA6"
+    },
+    "images": [
+      "/images/products/photos/hat-arc-bird-pink.png"
+    ],
+    "cutout": "/images/products/cutouts/hat-arc-bird-pink.png",
+    "cutoutTolerance": 48,
+    "silhouette": "beanie",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 2
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "hat-arc-bird-violet",
+    "brand": "Arc'teryx",
+    "model": "Bird Head Toque",
+    "category": "headwear",
+    "price": 5900,
+    "condition": "new",
+    "unique": false,
+    "description": "Вязаная шапка с жаккардовым логотипом-птицей.",
+    "color": {
+      "name": "Violet / Orange",
+      "hex": "#9A6BD6"
+    },
+    "images": [
+      "/images/products/photos/hat-arc-bird-violet.webp"
+    ],
+    "cutout": "/images/products/cutouts/hat-arc-bird-violet.png",
+    "cutoutTolerance": 52,
+    "silhouette": "beanie",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "hat-oakley-logo-black",
+    "brand": "Oakley",
+    "model": "Logo Beanie",
+    "category": "headwear",
+    "price": 3900,
+    "condition": "new",
+    "unique": false,
+    "description": "Чёрная вязаная шапка с серым вязаным логотипом.",
+    "color": {
+      "name": "Black / Grey",
+      "hex": "#1E1E1E"
+    },
+    "images": [
+      "/images/products/photos/hat-oakley-logo-black.png"
+    ],
+    "cutout": "/images/products/cutouts/hat-oakley-logo-black.png",
+    "silhouette": "beanie",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 4
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "hat-oakley-ellipse-black",
+    "brand": "Oakley",
+    "model": "Ellipse Beanie",
+    "category": "headwear",
+    "price": 4200,
+    "condition": "new",
+    "unique": false,
+    "description": "Чёрная вязаная шапка с крупным логотипом-эллипсом.",
+    "color": {
+      "name": "Black / White",
+      "hex": "#151515"
+    },
+    "images": [
+      "/images/products/photos/hat-oakley-ellipse-black.webp"
+    ],
+    "cutout": "/images/products/cutouts/hat-oakley-ellipse-black.png",
+    "silhouette": "beanie",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 3
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "hat-mammut-tweak-black",
+    "brand": "Mammut",
+    "model": "Tweak Beanie",
+    "category": "headwear",
+    "price": 4600,
+    "condition": "new",
+    "unique": false,
+    "description": "Чёрная вязаная шапка с жаккардовым логотипом-мамонтом.",
+    "color": {
+      "name": "Black / Grey",
+      "hex": "#1C1D21"
+    },
+    "images": [
+      "/images/products/photos/hat-mammut-tweak-black.webp"
+    ],
+    "cutout": "/images/products/cutouts/hat-mammut-tweak-black.png",
+    "cutoutTolerance": 54,
+    "silhouette": "beanie",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 2
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "bag-arc-mantis-black",
+    "brand": "Arc'teryx",
+    "model": "Mantis Backpack",
+    "category": "accessories",
+    "price": 14900,
+    "condition": "excellent",
+    "unique": true,
+    "description": "Городской рюкзак с вышитым логотипом, большим отделением на молнии и боковыми утяжками.",
+    "color": {
+      "name": "Black",
+      "hex": "#151515"
+    },
+    "images": [
+      "/images/products/photos/bag-arc-mantis-black.png"
+    ],
+    "cutout": "/images/products/cutouts/bag-arc-mantis-black.png",
+    "silhouette": "backpack",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "bag-oakley-sling-black",
+    "brand": "Oakley",
+    "model": "Vintage Sling Bag",
+    "category": "accessories",
+    "price": 11500,
+    "condition": "very-good",
+    "unique": true,
+    "description": "Сумка-слинг из рипстопа с сетчатыми карманами, логотипом-эллипсом и широким ремнём с карабином.",
+    "color": {
+      "name": "Black",
+      "hex": "#141414"
+    },
+    "images": [
+      "/images/products/photos/bag-oakley-sling-black.png"
+    ],
+    "cutout": "/images/products/cutouts/bag-oakley-sling-black.png",
+    "silhouette": "sling",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "bag-nike-sling-grey",
+    "brand": "Nike",
+    "model": "Vintage Sling Bag",
+    "category": "accessories",
+    "price": 7900,
+    "condition": "very-good",
+    "unique": true,
+    "description": "Сумка-слинг с сетчатым боковым карманом и светоотражающей диагональной вставкой.",
+    "color": {
+      "name": "Grey / Black",
+      "hex": "#8E8F8C"
+    },
+    "images": [
+      "/images/products/photos/bag-nike-sling-grey.png"
+    ],
+    "cutout": "/images/products/cutouts/bag-nike-sling-grey.png",
+    "silhouette": "sling",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "bag-cp-lens-sling-olive",
+    "brand": "C.P. Company",
+    "model": "Nylon B Lens Sling",
+    "category": "accessories",
+    "price": 16900,
+    "condition": "new",
+    "unique": false,
+    "description": "Сумка-слинг из нейлона с фирменной линзой на ремне и шнуровкой спереди.",
+    "color": {
+      "name": "Olive",
+      "hex": "#7A6D45"
+    },
+    "images": [
+      "/images/products/photos/bag-cp-lens-sling-olive.webp"
+    ],
+    "cutout": "/images/products/cutouts/bag-cp-lens-sling-olive.png",
+    "silhouette": "sling",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 2
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "bag-tnf-messenger-navy",
+    "brand": "The North Face",
+    "model": "Messenger Bag",
+    "category": "accessories",
+    "price": 8400,
+    "condition": "good",
+    "unique": true,
+    "description": "Сумка через плечо с клапаном, вышитым логотипом и боковыми карманами.",
+    "color": {
+      "name": "Navy / Grey",
+      "hex": "#2C3A5C"
+    },
+    "images": [
+      "/images/products/photos/bag-tnf-messenger-navy.webp"
+    ],
+    "cutout": "/images/products/cutouts/bag-tnf-messenger-navy.png",
+    "silhouette": "sling",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 1
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "bag-noiago-backpack-grey",
+    "brand": "NOIAGO",
+    "model": "Ripstop Backpack",
+    "category": "accessories",
+    "price": 6500,
+    "condition": "new",
+    "unique": false,
+    "description": "Рюкзак из рипстопа светло-серого цвета с фастексами и боковыми сетчатыми карманами.",
+    "color": {
+      "name": "Light Grey",
+      "hex": "#CFCFCB"
+    },
+    "images": [
+      "/images/products/photos/bag-noiago-backpack-grey.png"
+    ],
+    "cutout": "/images/products/cutouts/bag-noiago-backpack-grey.png",
+    "cutoutTolerance": 16,
+    "cutoutErode": 6,
+    "silhouette": "backpack",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 3
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "glasses-kaenon-tortoise",
+    "brand": "Kaenon",
+    "model": "Polarized Sunglasses",
+    "category": "accessories",
+    "price": 12900,
+    "condition": "excellent",
+    "unique": true,
+    "description": "Солнцезащитные очки в черепаховой оправе с поляризационными линзами.",
+    "color": {
+      "name": "Tortoise",
+      "hex": "#6B3A1F"
+    },
+    "images": [
+      "/images/products/photos/glasses-kaenon-tortoise.png"
+    ],
+    "cutout": "/images/products/cutouts/glasses-kaenon-tortoise.png",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 1
+      }
+    ],
+    "demo": false,
+    "cutoutTolerance": 34,
+    "cutoutErode": 1,
+    "cutoutShadow": true
+  },
+  {
+    "id": "glasses-bolle-rush-pink",
+    "brand": "Bollé",
+    "model": "Rush+",
+    "category": "accessories",
+    "price": 4900,
+    "condition": "new",
+    "unique": false,
+    "description": "Спортивные очки с панорамной линзой и мягкими заушниками.",
+    "color": {
+      "name": "Pink / White",
+      "hex": "#E7A1C0"
+    },
+    "images": [
+      "/images/products/photos/glasses-bolle-rush-pink.png"
+    ],
+    "cutout": "/images/products/cutouts/glasses-bolle-rush-pink.png",
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 5
+      }
+    ],
+    "demo": false
+  },
+  {
+    "id": "glasses-wrap-green",
+    "brand": "Без бренда",
+    "model": "Y2K Wrap Sunglasses",
+    "category": "accessories",
+    "price": 2900,
+    "condition": "new",
+    "unique": false,
+    "description": "Очки-маска в прозрачной серой оправе с зелёными линзами.",
+    "color": {
+      "name": "Clear Grey / Green",
+      "hex": "#A9E0A6"
+    },
+    "images": [
+      "/images/products/photos/glasses-wrap-green.png"
+    ],
+    "cutout": "/images/products/cutouts/glasses-wrap-green.png",
+    "cutoutTolerance": 22,
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 4
+      }
+    ],
+    "demo": false,
+    "cutoutShadow": true
+  },
+  {
+    "id": "glasses-oakley-eye-jacket",
+    "brand": "Oakley",
+    "model": "Eye Jacket Redux",
+    "category": "accessories",
+    "price": 16900,
+    "condition": "new",
+    "unique": false,
+    "description": "Очки с овальными линзами и обтекаемой оправой.",
+    "color": {
+      "name": "Sand / Bronze",
+      "hex": "#D9D2BF"
+    },
+    "images": [
+      "/images/products/photos/glasses-oakley-eye-jacket.png"
+    ],
+    "cutout": "/images/products/cutouts/glasses-oakley-eye-jacket.png",
+    "cutoutTolerance": 18,
+    "variants": [
+      {
+        "size": "ONE SIZE",
+        "stock": 2
+      }
+    ],
+    "demo": false
+  }
+]

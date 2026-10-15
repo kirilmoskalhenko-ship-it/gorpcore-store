@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1600" width="1200" height="1600">
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#1b1d19" flood-opacity=".28"/></filter>
+  <linearGradient id="fold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>
+  <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="904"/><feColorMatrix values="0 0 0 0 .45  0 0 0 0 .45  0 0 0 0 .43  0 0 0 .55 0"/></filter>
+  <filter id="stain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".006" numOctaves="3" seed="915"/><feColorMatrix values="0 0 0 0 .3  0 0 0 0 .3  0 0 0 0 .29  0 0 0 .5 -.12"/></filter>
+  <radialGradient id="light" cx=".3" cy=".2" r="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></radialGradient>
+</defs>
+<rect width="1200" height="1600" fill="#b4b3ad"/>
+  <rect width="1200" height="1600" filter="url(#stain)"/>
+  <rect width="1200" height="1600" filter="url(#grain)" opacity=".55"/>
+<g transform="translate(908.7 53.8) scale(1.9853 1.8048)">
+    <path d="M8 100 L8 44 Q8 0 50 0 Q92 0 92 44 L92 100 Z" fill="#B9B2A3" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M8 100 L8 44 Q8 0 50 0 Q92 0 92 44 L92 100 Z" fill="url(#fold)"/>
+    <rect x="8" y="66" width="84" height="34" fill="#736e65" opacity=".3"/><path d="M20 12 L20 100 M32 4 L32 100 M44 1 L44 100 M56 1 L56 100 M68 4 L68 100 M80 12 L80 100" fill="none" stroke="#736e65" stroke-width="0.9" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".4"/><rect x="40" y="76" width="20" height="10" fill="#c8c3b7" opacity=".6"/>
+    <path d="M8 100 L8 44 Q8 0 50 0 Q92 0 92 44 L92 100 Z" fill="none" stroke="#736e65" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g>
+<g transform="translate(504.0 288.0) scale(6.4800 6.4000)">
+    <path d="M38 0 L62 0 L66 10 L82 14 Q92 36 100 62 L92 66 Q82 48 74 32 L74 100 L26 100 L26 32 Q18 48 8 66 L0 62 Q8 36 18 14 L34 10 Z" fill="#8C8F8A" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M38 0 L62 0 L66 10 L82 14 Q92 36 100 62 L92 66 Q82 48 74 32 L74 100 L26 100 L26 32 Q18 48 8 66 L0 62 Q8 36 18 14 L34 10 Z" fill="url(#fold)"/>
+    <path d="M41 2 Q50 16 59 2" fill="#575956" opacity=".55"/><path d="M50 10 L50 100" fill="none" stroke="#3f403e" stroke-width="1.6" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M30 60 L40 70 M70 60 L60 70" fill="none" stroke="#3f403e" stroke-width="1.2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M26 32 Q36 36 34 16 M74 32 Q64 36 66 16" fill="none" stroke="#575956" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M96 60 L91 64 M4 60 L9 64" fill="none" stroke="#a5a8a4" stroke-width="2.4" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><rect x="26" y="94" width="48" height="6" fill="#575956" opacity=".35"/><path d="M44 40 Q47 52 43 64 M58 30 Q55 46 60 58" fill="none" stroke="#575956" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".35"/>
+    <path d="M38 0 L62 0 L66 10 L82 14 Q92 36 100 62 L92 66 Q82 48 74 32 L74 100 L26 100 L26 32 Q18 48 8 66 L0 62 Q8 36 18 14 L34 10 Z" fill="none" stroke="#575956" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g>
+<g transform="translate(107.5 142.9) scale(3.6096 8.0213)">
+    <path d="M8 0 L92 0 L100 100 L58 100 L50 30 L42 100 L0 100 Z" fill="#B9B2A3" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M8 0 L92 0 L100 100 L58 100 L50 30 L42 100 L0 100 Z" fill="url(#fold)"/>
+    <rect x="8" y="0" width="84" height="6" fill="#736e65" opacity=".5"/><path d="M50 6 L50 26" fill="none" stroke="#535049" stroke-width="1.4" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><rect x="4" y="44" width="16" height="16" rx="2" fill="#736e65" opacity=".28"/><rect x="80" y="44" width="16" height="16" rx="2" fill="#736e65" opacity=".28"/><path d="M14 6 Q22 14 30 10 M86 6 Q78 14 70 10" fill="none" stroke="#535049" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M8 70 Q22 66 38 70 M62 70 Q78 66 94 70" fill="none" stroke="#736e65" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".5"/><rect x="0" y="96" width="42" height="4" fill="#736e65" opacity=".4"/><rect x="58" y="96" width="42" height="4" fill="#736e65" opacity=".4"/>
+    <path d="M8 0 L92 0 L100 100 L58 100 L50 30 L42 100 L0 100 Z" fill="none" stroke="#736e65" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g>
+<g transform="translate(669.3 1032.6) scale(3.6547 2.7072)">
+    <path d="M6 10 Q4 4 14 4 L82 6 Q98 8 98 24 Q98 40 82 42 L14 44 Q4 44 6 36 Z M2 58 Q0 52 10 52 L78 54 Q94 56 94 72 Q94 88 78 90 L10 92 Q0 92 2 84 Z" fill="#6B4A3A" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M6 10 Q4 4 14 4 L82 6 Q98 8 98 24 Q98 40 82 42 L14 44 Q4 44 6 36 Z M2 58 Q0 52 10 52 L78 54 Q94 56 94 72 Q94 88 78 90 L10 92 Q0 92 2 84 Z" fill="url(#fold)"/>
+    <path d="M24 12 L74 12 Q86 16 86 24 Q86 32 74 36 L24 36 Q16 24 24 12 Z" fill="#8c7265" opacity=".35"/><path d="M20 60 L70 60 Q82 64 82 72 Q82 80 70 84 L20 84 Q12 72 20 60 Z" fill="#8c7265" opacity=".35"/><path d="M34 16 L40 32 M42 16 L48 32 M50 16 L56 32 M58 16 L64 32" fill="none" stroke="#f4f3ee" stroke-width="1.2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M30 64 L36 80 M38 64 L44 80 M46 64 L52 80 M54 64 L60 80" fill="none" stroke="#f4f3ee" stroke-width="1.2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M6 10 Q4 4 14 4 L82 6 Q98 8 98 24 Q98 40 82 42 L14 44 Q4 44 6 36 Z" fill="none" stroke="#e9e7e0" stroke-width="2.2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M2 58 Q0 52 10 52 L78 54 Q94 56 94 72 Q94 88 78 90 L10 92 Q0 92 2 84 Z" fill="none" stroke="#e9e7e0" stroke-width="2.2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M6 10 Q4 4 14 4 L82 6 Q98 8 98 24 Q98 40 82 42 L14 44 Q4 44 6 36 Z M2 58 Q0 52 10 52 L78 54 Q94 56 94 72 Q94 88 78 90 L10 92 Q0 92 2 84 Z" fill="none" stroke="#422e24" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g>
+<g transform="translate(131.5 1210.1) scale(3.6096 1.7189)">
+    <path d="M18 30 Q50 18 82 30 Q94 34 92 54 Q88 80 50 82 Q12 80 8 54 Q6 34 18 30 Z" fill="#B6A58A" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M18 30 Q50 18 82 30 Q94 34 92 54 Q88 80 50 82 Q12 80 8 54 Q6 34 18 30 Z" fill="url(#fold)"/>
+    <path d="M0 40 L12 40 M88 40 L100 40" fill="none" stroke="#262826" stroke-width="4" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M18 42 Q50 32 82 42" fill="none" stroke="#524a3e" stroke-width="1.6" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><rect x="60" y="38" width="5" height="6" rx="1" fill="#d6d4cc"/><path d="M22 52 Q50 46 78 52 Q74 74 50 76 Q26 74 22 52 Z" fill="#716656" opacity=".18"/>
+    <path d="M18 30 Q50 18 82 30 Q94 34 92 54 Q88 80 50 82 Q12 80 8 54 Q6 34 18 30 Z" fill="none" stroke="#716656" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g>
+<rect width="1200" height="1600" fill="url(#light)"/>
+<text x="1164" y="1566" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="22" letter-spacing="4" fill="#ffffff" opacity=".7">DEMO PLACEHOLDER · CONCRETE EXPLORER</text>
+</svg>

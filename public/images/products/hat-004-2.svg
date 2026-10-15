@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" width="900" height="1200">
+<defs>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#1b1d19" flood-opacity=".28"/></filter>
+  <linearGradient id="fold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".16"/><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>
+  <filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="3" seed="115"/><feColorMatrix values="0 0 0 0 .45  0 0 0 0 .45  0 0 0 0 .43  0 0 0 .55 0"/></filter>
+  <filter id="stain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".006" numOctaves="3" seed="126"/><feColorMatrix values="0 0 0 0 .3  0 0 0 0 .3  0 0 0 0 .29  0 0 0 .5 -.12"/></filter>
+  <radialGradient id="light" cx=".3" cy=".2" r="1"><stop offset="0" stop-color="#fff" stop-opacity=".22"/><stop offset=".6" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></radialGradient>
+</defs>
+<rect width="900" height="1200" fill="#eaece6"/>
+<rect width="900" height="1200" filter="url(#grain)" opacity=".12"/>
+<g transform="translate(450 600) scale(2.1) translate(-450 -660)"><g transform="translate(130.4 260.4) scale(6.3920 6.3920)">
+    <path d="M50 2 A48 48 0 1 1 49.9 2 Z" fill="#2F3E5C" filter="url(#shadow)" fill-rule="nonzero"/>
+    <path d="M50 2 A48 48 0 1 1 49.9 2 Z" fill="url(#fold)"/>
+    <circle cx="50" cy="50" r="30" fill="#1d2639" opacity=".25"/><path d="M50 20 A30 30 0 1 1 49.9 20" fill="none" stroke="#151c29" stroke-width="1.2" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" /><path d="M50 8 A42 42 0 1 1 49.9 8" fill="none" stroke="#1d2639" stroke-width="0.8" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 3" opacity=".7"/>
+    <path d="M50 2 A48 48 0 1 1 49.9 2 Z" fill="none" stroke="#1d2639" stroke-width="1" vector-effect="non-scaling-stroke" stroke-linecap="round" stroke-linejoin="round" opacity=".55"/>
+  </g></g>
+<text x="44" y="1150" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="20" letter-spacing="3" fill="#20251f" opacity=".55">DEMO · TERRAIN LAB · DETAIL</text>
+</svg>

@@ -1,0 +1,10 @@
+# Единые LF-окончания строк в репозитории (Vercel собирает на Linux)
+* text=auto eol=lf
+
+# бинарные файлы — без преобразований
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.ico binary

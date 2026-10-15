@@ -1,0 +1,33 @@
+# зависимости
+node_modules
+
+# сборка Next.js
+.next
+out
+build
+next-env.d.ts
+*.tsbuildinfo
+
+# переменные окружения и секреты (шаблон .env.example — в репозитории)
+.env
+.env.*
+!.env.example
+*.pem
+
+# Vercel
+.vercel
+
+# тесты
+test-results
+playwright-report
+blob-report
+playwright/.cache
+
+# локальные настройки редакторов и инструментов
+.claude
+.vscode
+.idea
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
